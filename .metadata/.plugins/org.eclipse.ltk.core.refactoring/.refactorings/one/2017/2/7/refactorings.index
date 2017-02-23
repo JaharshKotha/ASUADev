@@ -1,0 +1,14 @@
+1487231173315	Move 'index.jsp' to 'views'
+1487280701568	Rename resource 'servlet-context.xml '
+1487285215926	Rename package 'edu.asu.diging.tutorial.spring.web.service'
+1487285306827	Delete element
+1487285356533	Rename package 'edu.asu.diging.tutorial.spring.web'
+1487285370517	Delete element
+1487285379164	Move compilation unit
+1487285387437	Delete element
+1487285402219	Move compilation unit
+1487285450609	Move compilation unit
+1487285457160	Delete element
+1487285476340	Move compilation unit
+1487285583595	Rename package 'edu.asu.diging.tutorial.spring.web'
+1487285635979	Move compilation unit
